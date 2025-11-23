@@ -4,7 +4,7 @@ print("Rules:")
 print("1. There will be 3 levels of difficulty")
 print("2. Level 1: You will get 2 Chances to guess the correct number between 1 and 5")
 print("3. Level 2: You will get 3 Chances to guess the correct number between 1 and 10")
-print("4. Level 3: You will get 5 Chances to guess the correct number between 1 nad 20")
+print("4. Level 3: You will get 5 Chances to guess the correct number between 1 and 20")
 def level_1():
     num = random.randint(1,5)
     print("Welcome to Level 1")
@@ -83,6 +83,7 @@ while True:
             continue
         else:
             break
+
 
 
 
