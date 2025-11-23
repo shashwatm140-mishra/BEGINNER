@@ -7,15 +7,15 @@
 
 
 
-🎯 Guess the Number Game
+# 🎯 Guess the Number Game
 
 
-Overview of the Project :
+# Overview of the Project :
 
 This project implements a classic "Guess the Number" game, built as a console application using Python. The objective is for the user to guess a secret random number chosen by the computer within a defined range and number of chances. The game features three distinct difficulty levels to provide a varying challenge.
 
 
-✨ Features :
+# ✨ Features :
 
 The Guess the Number Game includes the following key features:
 
@@ -33,7 +33,7 @@ Python 3.x The core programming language for the application logic.
 random moduleUsed for generating the secret integer number within the specified range.
 Console/TerminalUsed for all input and output (I/O).
 
-⚙️ Steps to Install & Run the Project :
+# ⚙️ Steps to Install & Run the Project :
 
 Prerequisites: Ensure you have Python 3 installed on your system.
 
@@ -42,7 +42,7 @@ Clone the Repository: Download or clone the project files (specifically main.py)
 Open Terminal/Command Prompt: Navigate to the directory where you saved the main.py file.
 Play the Game: Follow the on-screen instructions to select a level (1, 2, or 3) and enter your guesses. Select 4 to exit.
 
-🧪 Instructions for Testing :
+# 🧪 Instructions for Testing :
 
 
 The game can be tested manually by verifying the following scenarios:
@@ -57,7 +57,7 @@ Test the exit option (4) from the main menu.
 
 Test an invalid menu choice (e.g., entering 5) to verify the prompt "GO TO MAIN MENU?[y/n]:" works correctly.
 
-Screenshots:
+# Screenshots:
 
 <img width="890" height="411" alt="Screenshot 2025-11-24 000806" src="https://github.com/user-attachments/assets/3e7c909c-454d-4ca6-a2e0-0d26f33404d0" />
 
