@@ -13,7 +13,7 @@ def level_1():
         guess = int(input("Guess the number: "))
         if guess == num:
             print("Computer chose: ", num)
-            print("YOu chose: ", guess)
+            print("You chose: ", guess)
             print("You Won!!!")
             break
         else:
@@ -30,7 +30,7 @@ def level_2():
         guess = int(input("Guess the number: "))
         if guess == num2:
             print("Computer chose: ", num2)
-            print("YOu chose: ", guess)
+            print("You chose: ", guess)
             print("You Won!!!")
             break
         else:
@@ -47,7 +47,7 @@ def level_3():
         guess = int(input("Guess the number: "))
         if guess == num3:
             print("Computer chose: ", num3)
-            print("YOu chose: ", guess)
+            print("You chose: ", guess)
             print("You Won!!!")
             break
         else:
@@ -83,6 +83,7 @@ while True:
             continue
         else:
             break
+
 
 
 
